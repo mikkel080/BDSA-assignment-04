@@ -3,16 +3,14 @@
 * Group 0: aguh, rakt, wihe
 * Group 1: ojoh
 * Group 2: kmsa, hcan, mesv
-* Group 2: laku, erja, raoo
 * Group 3: mlth, oljh
 * Group 4: dadh, mbia
 * Group 5: otja, luel
-* Group 6: jric
 * Group 6: frai, asjo, nlje, frhc
 * Group 7: memr, luha, frepe
 * Group 8: siar, gues, adjr
 * Group 9: tcla, adrka, bemi
-
+* Group 10: laku, erja, raoo
 * Group 11: json, nkrj, weny
 * Group 12: malsc, tbav
 * Group 14: tbru, hast, shho
@@ -31,15 +29,15 @@
 * Group 27: bath
 * Group 28: atro, monha, annro
 * Group 29: mbln
-
+* Group 30: lufr, mfjo, jacg
 * Group 31: emno, rogy, skas, jwni
-
+* Group 32: pekp, okre
 * Group 33: lawu, emkh
 * Group 34: sibh, biha. clly
 * Group 35: base, aing
 * Group 36: vime, rasni, laup
 * Group 37: rafa, jouj
-
+* Group 38: mbjn, hecn
 * Group 39: clwj, nsel, paab, oska
 * Group 40: jown, aegr, tael
 * Group 41: jevb, millh, teim
@@ -48,12 +46,11 @@
 * Group 44: ksig, timj, esmi
 * Group 45: husa, noms
 * Group 46: crco, ahad
-* Group 46: lufr, mfjo, jacg
-* Group 46: pekp, okre
-* Group 46: mbjn, hecn
-* Group 46: eikb, mroa, mwha
-* Group 46: nkar, stmp
-* Group 46: unla, phla
-* Group ?: elbr, tuho, kbej
-* Group 53: maxt, siol, kmey, mhsi
-* Group 54: mhvl, lanr, midf
+* Group 47: mbjn, hecn
+* Group 48: eikb, mroa, mwha
+* Group 49: nkar, stmp
+* Group 50: unla, phla
+* Group 51: elbr, tuho, kbej
+* Group 52: maxt, siol, kmey, mhsi
+* Group 53: mhvl, lanr, midf
+* Group 54: jric
