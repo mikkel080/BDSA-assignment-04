@@ -15,7 +15,7 @@
 
 * Group 11: json, nkrj, weny
 * Group 12: malsc, tbav
-* Group 14: tbru, hast
+* Group 14: tbru, hast, shho
 * Group 15: mreh, nicha, mgan
 * Group 16: brml, phimo, chbl
 * Group 17: frgm, avia
@@ -39,7 +39,7 @@
 * Group 35: base, aing
 * Group 36: vime, rasni, laup
 * Group 37: rafa, jouj
-* Group 38: shho
+
 * Group 39: clwj, nsel, paab, oska
 * Group 40: jown, aegr, tael
 * Group 41: jevb, millh, teim
